@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="sr_tickets" max_length="40" name="x_263820_icd_alter_sr_tickets" type="collection">
+    <element extends="task" label="sr_tickets" max_length="40" name="x_263820_icd_alter_sr_tickets" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" default="Yes" label="approval_comment" max_length="40" name="u_choice_1" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Yes selection" sequence="0" value="Yes"/>
