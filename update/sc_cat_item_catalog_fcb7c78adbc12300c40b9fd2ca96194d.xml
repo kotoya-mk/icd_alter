@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="DeliveryAMS-2">38b70b4adbc12300c40b9fd2ca9619a9</sc_cat_item>
+        <sc_catalog display_value="ServiceDeskCatalog">efd2b27bdbbc2300c40b9fd2ca961905</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-11 07:19:17</sys_created_on>
+        <sys_id>fcb7c78adbc12300c40b9fd2ca96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceDeskCatalog.Copy of DeliveryAMS</sys_name>
+        <sys_package display_value="icd_alternative" source="x_263820_icd_alter">26660446db702300c40b9fd2ca961955</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="icd_alternative">26660446db702300c40b9fd2ca961955</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fcb7c78adbc12300c40b9fd2ca96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-11 07:19:17</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

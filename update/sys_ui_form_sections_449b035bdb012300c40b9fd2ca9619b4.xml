@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="449b035bdb012300c40b9fd2ca9619b4" sys_domain="global" table="sc_cat_item" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 04:48:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>449b035bdb012300c40b9fd2ca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="icd_alternative" source="x_263820_icd_alter">26660446db702300c40b9fd2ca961955</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="icd_alternative">26660446db702300c40b9fd2ca961955</sys_scope>
+            <sys_update_name>sys_ui_form_sections_449b035bdb012300c40b9fd2ca9619b4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 04:48:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="NoCart" name="NoCart">089bcf1bdb012300c40b9fd2ca961920</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Content Delivery AMS">457180e2dbc12300c40b9fd2ca9619f1</sc_cat_item>
+        <sc_category display_value="password-postout ">08f64b4adbc12300c40b9fd2ca9619ed</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 06:12:14</sys_created_on>
+        <sys_id>10f108e2dbc12300c40b9fd2ca961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>password-postout .Content Delivery AMS</sys_name>
+        <sys_package display_value="icd_alternative" source="x_263820_icd_alter">26660446db702300c40b9fd2ca961955</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="icd_alternative">26660446db702300c40b9fd2ca961955</sys_scope>
+        <sys_update_name>sc_cat_item_category_10f108e2dbc12300c40b9fd2ca961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 06:12:14</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
